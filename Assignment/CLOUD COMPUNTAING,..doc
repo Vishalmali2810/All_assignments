@@ -1,0 +1,89 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset1 Cambria Math;}{\f2\fnil\fcharset0 Cambria Math;}{\f3\fnil Calibri;}}
+{\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\f0\fs22\lang9\par
+
+\pard\sa200\sl276\slmult1\qc\b\fs40 Cloud Computing Assignment \par
+
+\pard\sa200\sl276\slmult1\fs22 Module -1 (Fundamentals) \par
+\b0\f1\u8729?\f0  What is cloud computing? \par
+\lang1033 ANS=Cloud Computing provides us a means by which we can access the applications as utilities,over the Internet. It allows us to create, configure, and customize applications online.\f1\par
+\u8729?\f0  Describe cloud computing deploy model \par
+ANS=A\f2  \f0 cloud\f2  \f0 deployment\f2  \f0 model\f2  \f0 signifies\f2  \f0 a\f2  \f0 specific\f2  \f0 cloud\f2  \f0 environment\f2  \f0 based\f2  \f0 on\f2  \f0 who\f2  \f0 controls\f2  \f0 security\f2 , \f0 who\f2  \f0 has\f2  \f0 permissions\f2 , \f0 and\f2  \f0 whether\f2  \f0 resources\f2  \f0 are\f2  \f0 shared\f2  \f0 or\f2  \f0 dedicated\f2 . \f0 It\f2  \f0 describes\f2  \f0 your\f2  \f0 cloud\f2  \f0 infrastructure\f2 , \f0 how\f2  \f0 much\f2  \f0 you\f2  \f0 can\f2  \f0 change\f2 , \f0 and\f2  \f0 whether\f2  \f0 you\f2  \f0 will\f2  \f0 be\f2  \f0 provided\f2  \f0 with\f2  \f0 services\f2 .\f0\par
+\f1\u8729?\f0  Describe different type of cloud service \par
+ANS=There\f2  \f0 are\f2  \f0 four\f2  \f0 main\f2  \f0 types\f2  \f0 of\f2  \f0 cloud\f2  \f0 computing\f2 : \f0 private\f2  \f0 clouds\f2 , \f0 public\f2  \f0 clouds\f2 , \f0 hybrid\f2  \f0 clouds\f2 , \f0 and\f2  \f0 multiclouds\f2 . \f0 There\f2  \f0 are\f2  \f0 also\f2  \f0 three\f2  \f0 main\f2  \f0 types\f2  \f0 of\f2  \f0 cloud\f2  \f0 computing\f2  \f0 services\f2 : \f0 Infrastructure\f2 -\f0 as\f2 -\f0 a\f2 -\f0 Service\f2  (\f0 IaaS\f2 ), \f0 Platforms\f2 -\f0 as\f2 -\f0 a\f2 -\f0 Service\f2  (\f0 PaaS\f2 ), \f0 and\f2  \f0 Software\f2 -\f0 as\f2 -\f0 a\f2 -\f0 Service\f2  (\f0 SaaS\f2 ).\f0\par
+\f1\u8729?\f0  Describe cloud computing Architecture \par
+ANS=Cloud\f2  \f0 architecture\f2  \f0 refers\f2  \f0 to\f2  \f0 how\f2  \f0 various\f2  \f0 cloud\f2  \f0 technology\f2  \f0 components\f2 , \f0 such\f2  \f0 as\f2  \f0 hardware\f2 , \f0 virtual\f2  \f0 resources\f2 , \f0 software\f2  \f0 capabilities\f2 , \f0 and\f2  \f0 virtual\f2  \f0 network\f2  \f0 systems\f2  \f0 interact\f2  \f0 and\f2  \f0 connect\f2  \f0 to\f2  \f0 create\f2  \f0 cloud\f2  \f0 computing\f2  \f0 environments\f2 .\f0\par
+\f1\u8729?\f0  What is components of cloud computing? \par
+ANS=Client\f2  \f0 infrastructure\f2 , \f0 application\f2 , \f0 service\f2 , \f0 runtime\f2  \f0 cloud\f2 , \f0 storage\f2 , \f0 infrastructure\f2 , \f0 management\f2  \f0 and\f2  \f0 security\f2  \f0 all\f2  \f0 these\f2  \f0 are\f2  \f0 the\f2  \f0 components\f2  \f0 of\f2  \f0 cloud\f2  \f0 computing\f2  \f0 architecture\f2 .\f0\par
+\f1\u8729?\f0  cloud computing advantage and disadvantage \par
+ANS=Advantage\f2  \f1\endash  Cost Reduction. It's a basic financial principle that profit comes from making more money than you spend. ...\par
+Advantage \endash  Security. ...\par
+Advantage \endash  Reliability. ...\par
+Disadvantage \endash  Downtime. ...\par
+Disadvantage \endash  Security. ...\par
+Disadvantage \endash  Cloud Service Closes Shop.\f0\par
+\b Module \f3\endash  2 (Virtualization and Storage Management) \par
+\b0\f1\u8729?\f0  What is virtualization and virtualization type? \par
+ANS=Virtualization\f2  \f0 is\f2  \f0 a\f2  \f0 technique\f2  \f0 how\f2  \f0 to\f2  \f0 separate\f2  \f0 a\f2  \f0 service\f2  \f0 from\f2  \f0 the\f2  \f0 underlying\f2  \f0 physical\f2  \f0 delivery\f2  \f0 of\f2  \f0 that\f2  \f0 service\f2 . \f0 It\f2  \f0 is\f2  \f0 the\f2  \f0 process\f2  \f0 of\f2  \f0 creating\f2  \f0 a\f2  \f0 virtual\f2  \f0 version\f2  \f0 of\f2  \f0 something\f2  \f0 like\f2  \f0 computer\f2  \f0 hardware.\par
+\b Types\f2  \f0 of\f2  \f0 Virtualization\b0\par
+Application\f2  \f0 Virtualization\par
+Network\f2  \f0 Virtualization\par
+Desktop\f2  \f0 Virtualization\par
+Storage\f2  \f0 Virtualization\par
+Server\f2  \f0 Virtualization\par
+Data\f2  \f0 virtualization\f2\par
+\f1\u8729?\f0  What is snapshot and what is cloning? \par
+\par
+\f1\u8729?\f0  Roles of virtualization in cloud computing? \par
+ANS=Virtualization\f2  \f0 in\f2  \f0 cloud\f2  \f0 computing\f2  \f0 can\f2  \f0 prevent\f2  \f0 your\f2  \f0 IT\f2  \f0 system\f2  \f0 from\f2  \f0 failing\f2 . \f0 Even\f2  \f0 if\f2  \f0 one\f2  \f0 part\f2  \f0 of\f2  \f0 your\f2  \f0 system\f2  \f0 crashes\f2 , \f0 it\f2  \f0 doesn't\f2  \f0 mean\f2  \f0 the\f2  \f0 entire\f2  \f0 system\f2  \f0 will\f2 . \f0 A\f2  \f0 virtual\f2  \f0 machine\f2  \f0 helps\f2  \f0 protect\f2  \f0 your\f2  \f0 IT\f2  \f0 environment\f2  \f0 from\f2  \f0 bugs\f2 , \f0 viruses\f2 , \f0 and\f2  \f0 crashes\f2  \f0 when\f2  \f0 you\f2  \f0 are\f2  \f0 testing\f2  \f0 software\f2  \f0 or\f2  \f0 trying\f2  \f0 out\f2  \f0 a\f2  \f0 new\f2  \f0 program\par
+\f1\u8729?\f0  What is container?  \par
+ANS=Containers\f2  \f0 are\f2  \f0 an\f2  \f0 abstraction\f2  \f0 at\f2  \f0 the\f2  \f0 app\f2  \f0 layer\f2  \f0 that\f2  \f0 packages\f2  \f0 code\f2  \f0 and\f2  \f0 dependencies\f2  \f0 together\f2 . \f0 Multiple\f2  \f0 containers\f2  \f0 can\f2  \f0 run\f2  \f0 on\f2  \f0 the\f2  \f0 same\f2  \f0 machine\f2  \f0 and\f2  \f0 share\f2  \f0 the\f2  \f0 OS\f2  \f0 kernel\f2  \f0 with\f2  \f0 other\f2  \f0 containers\f2 , \f0 each\f2  \f0 running\f2  \f0 as\f2  \f0 isolated\f2  \f0 processes\f2  \f0 in\f2  \f0 user\f2  \f0 space\f2 . \f0\par
+\f1\u8729?\f0  What is high availability and live migration in virtualization? \par
+ANS=the\f2  \f0 failed\f2  \f0 host\f2  \f0 has\f2  \f0 crashed\f2  \f0 or\f2  \f0 powered\f2  \f0 down\f2 , \f0 and\f2  \f0 the\f2  \f0 VM\f2  \f0 is\f2  \f0 booted\f2  \f0 up\f2  \f0 on\f2  \f0 a\f2  \f0 different\f2  \f0 host\f2 . \f0 Live\f2  \f0 Migration\f2  \f0 is\f2  \f0 a\f2  \f0 system\f2  \f0 where\f2  \f0 a\f2  \f0 running\f2  \f0 virtual\f2  \f0 machine\f2  \f0 can\f2  \f0 be\f2  \f0 moved\f2  \f0 from\f2  \f0 host\f2  \f0 A\f2  \f0 to\f2  \f0 host\f2  \f0 B\f2  \f0 with\f2  \f0 zero\f2  \f0 downtime\f2 . \f0 It\f2  \f0 is\f2  \f0 different\f2  \f0 from\f2  \f0 HA\f2  \f0 because\f2  \f0 it\f2  \f0 is\f2  \f0 more\f2  \f0 proactive\f2  \f0 than\f2  \f0 a\f2  \f0 failover\f2  \f0 operation\f2 .\f0\par
+\f1\u8729?\f0  Storage configuration \f3\endash describe block storage, file storage and object storage---DAS  NAS and SAN \par
+\f0\lang1033 ANS=The major differences between DAS, NAS, and SAN are costs, scalability, and how storage is shared. The three systems also use different storage mechanisms: DAS primarily uses hard-drive storage with sectors, NAS uses shared files, and SAN uses block storage. Different technologies are also used for transmitting data.\f3\par
+\f1\u8729?\f0  Describe storage allocation and provisioning\par
+ANS=A\f2  \f0 compiler\f2  \f0 is\f2  \f0 a\f2  \f0 program\f2  \f0 that\f2  \f0 converts\f2  \f0 HLL\f2 (\f0 High\f2 -\f0 Level\f2  \f0 Language\f2 ) \f0 to\f2  \f0 LLL\f2 (\f0 Low\f2 -\f0 Level\f2  \f0 Language\f2 ) \f0 like\f2  \f0 machine\f2  \f0 language\f2 . \f0 In\f2  \f0 a\f2  \f0 compiler\f2 , \f0 there\f2  \f0 is\f2  \f0 a\f2  \f0 need\f2  \f0 for\f2  \f0 storage\f2  \f0 allocation\f2  \f0 strategies\f2  \f0 in\f2  \f0 Compiler\f2  \f0 design\f2  \f0 because\f2  \f0 it\f2  \f0 is\f2  \f0 very\f2  \f0 important\f2  \f0 to\f2  \f0 use\f2  \f0 the\f2  \f0 right\f2  \f0 strategy\f2  \f0 for\f2  \f0 storage\f2  \f0 allocation\f2  \f0 as\f2  \f0 it\f2  \f0 can\f2  \f0 directly\f2  \f0 affect\f2  \f0 the\f2  \f0 performance\f2  \f0 of\f2  \f0 the\f2  \f0 software\par
+ \b Module - 3 (System Management and Public Cloud) \par
+\b0\f1\u8729?\f0  Different type of cloud storage  \par
+ANS=There\f2  \f0 are\f2  \f0 three\f2  \f0 main\f2  \f0 cloud\f2  \f0 storage\f2  \f0 types\f2 : \f0 object\f2  \f0 storage\f2 , \f0 file\f2  \f0 storage\f2 , \f0 and\f2  \f0 block\f2  \f0 storage\f2 . \f0 Each\f2  \f0 offers\f2  \f0 its\f2  \f0 own\f2  \f0 advantages\f2  \f0 and\f2  \f0 has\f2  \f0 its\f2  \f0 own\f2  \f0 use\f2  \f0 cases\f2 .\f0\par
+\f1\u8729?\f0  What is role base access control and identity and access management and MFA \f1\u8729?\f0  What is physical and virtual host allocation? \par
+\lang1033 ANS=Role-based access control (RBAC) restricts network access based on a person's role within an organization and has become one of the main methods for advanced access control. The roles in RBAC refer to the levels of access that employees have to the network.\par
+\f1\u8729?\f0  How to access resource of cloud computing? \par
+\lang1033 ANS=\par
+\f1\u8729?\f0  Type of backup in cloud? \par
+\lang1033 ANS=Backing up Directly to the Public Cloud,Backing up to a Service Provider,Choosing a Cloud-to-Cloud (C2C) Backup,Backing Up from On-Premises Data to the Cloud\par
+\f1\u8729?\f0  What is disaster recovery? \par
+\lang1033 ANS=Disaster recovery (DR) is an organization's ability to restore access and functionality to IT infrastructure after a disaster event, whether natural or caused by human action (or error).\par
+\b Module \f3\endash  4(Resource Management and Security) \par
+\b0\f1\u8729?\f0  Resource Monitoring Techniques \par
+\lang1033 ANS=Resource management is the process of planning, scheduling and allocating resources to complete a project. Usually, project managers oversee the resource management process, but there are other leaders who might take this responsibility.\par
+\f1\u8729?\f0  How to access compute (windows and linux ) from internet ? describe tools and its  security \par
+\lang1033 ANS=\par
+\f1\u8729?\f0  Encryption Technologies and Methods \par
+\lang1033 ANS=Now let's look at seven common methods of encryption that you can use to safeguard sensitive data for your business.\par
+Advanced Encryption Standard (AES) ...\par
+Triple Data Encryption Standard (TDES) ...\par
+Rivest Shamir Adleman (RSA) ...\par
+Blowfish. ...\par
+Twofish. ...\par
+Format-Preserving Encryption (FPE) ...\par
+Elliptic Curve Cryptography (ECC)\par
+\f1\u8729?\f0  Describe network security in cloud, compute security and storage security \par
+\lang1033 ANS=What is cloud network security? Like cloud security, cloud network security refers to the technology, policies, controls, and processes used to protect data and solely focuses on protecting cloud networks from unauthorized access, modification, misuse, or exposure.\par
+ Module \f3\endash  5 (Business Continuity in the cloud) \par
+\f1\u8729?\f0  How to configure, develop and maintain Security and Privacy in cloud? \f1\u8729?\f0  What is Portability in cloud? \par
+\lang1033 ANS=Some\f2  \f0 of\f2  \f0 the\f2  \f0 most\f2  \f0 critical\f2  \f0 questions\f2  \f0 in\f2  \f0 cloud\f2  \f0 computing\f2  \f0 involve\f2  \f0 challenges\f2  \f0 around\f2  \f0 moving\f2  \f0 resources\f2  (\f0 data\f2 , \f0 applications\f2 , \f0 etc\f2 .) \f0 between\f2  \f0 cloud\f2  \f0 systems\f2 . \f0 Organizations\f2  \f0 may\f2  \f0 build\f2  \f0 massively\f2  \f0 complex\f2  \f0 and\f2  \f0 expensive\f2  \f0 cloud\f2  \f0 infrastructures\f2  \f0 for\f2  \f0 any\f2  \f0 operations\f2 , \f0 from\f2  \f0 research\f2  \f0 to\f2  \f0 analytics\f2  \f0 and\f2  \f0 intelligence\f2 , \f0 leading\f2  \f0 to\f2  \f0 a\f2  \f0 moribund\f2  \f0 and\f2  \f0 hard\f2 -\f0 to\f2 -\f0 adapt\f2  \f0 system\par
+\f1\u8729?\f0  What is Reliability and high Availability in cloud? \par
+\lang1033 ANS=You need reliability in cloud computing to ensure that your products and services work as expected. You need cloud availability to ensure that customers can access your cloud services whenever they need to and from anywhere in the world. You need to bring all three together to achieve true high availability.\par
+\f1\u8729?\f0  Describe Mobility Cloud Computing \par
+\lang1033 ANS=Mobile cloud computing (MCC) is the method of using cloud technology to deliver mobile apps. Complex mobile apps today perform tasks such as authentication, location-aware functions, and providing targeted content and communication for end users\par
+\f1\u8729?\f0  Describe AWS, Azure, Google cloud Platforms .\par
+\lang1033 ANS=AWS, Azure, and GCP are well-known hyperscale cloud providers, each with unique strengths. AWS offers global reach and scalability, Azure excels in integration and security, and GCP shines in data management and machine learning.\par
+\f1\u8729?\f0  Accessing AWS, Azure and Google cloud Platforms \par
+\lang1033 ANS=\par
+\f1\u8729?\f0  Create compute, create network, create storage on AWS , Azure and GCP \f1\u8729?\f0  Compare Cloud pricing of resources and services on all platform\par
+\lang1033 ANS=\par
+\lang9\par
+}
+ 
